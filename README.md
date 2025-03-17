@@ -1,4 +1,4 @@
-# AInventory
+# AInventory - A Harvard's Capstone Project - Author: Georg Ziegner @ziegeo, Sahil Sakhuja @sahilsakhuja, Michael @crispin-nosidam, Arash Sarmadi @arashsamadi, Hung Le @HungMCLe
 
 ```mermaid
 graph TD
