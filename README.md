@@ -67,6 +67,8 @@ graph TD
     class GraphUtils,ConfigParser util
 ```
 
+Check out the paper at: https://arxiv.org/abs/2503.18201!
+
 ## A-Inventory (AI-ventory): Multi-echelon Inventory Optimization using JAX and Iterative Multi-agent Reinforcement Learning
 
 ### Overview
